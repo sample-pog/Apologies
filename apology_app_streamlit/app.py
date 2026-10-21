@@ -243,50 +243,10 @@ elif st.session_state.stage == "letter":
     # Write your permanent letter between the triple quotes below.
     # It is part of the code and cannot be edited from the deployed app.
     letter_text = """
-"Haan kyuki mai sach me bol rha mereko hot nahi lagte. Like jaisi ladkiyan ko hot bolte hai na waise aap nahi ho. Aap... cute type hai like adorable. Ab pata nahi kaise samjhau"
-
-"Aapko banane me bhi acha lagega. Aapke piche khade rahunga. Aapke around apna haath wrapped rakh ke. Har ek sahi chiz krne pr gardan me ek kiss. Aur ek chiz galat krne pr.... Nevermind ye nahi bataunga jab krunga tab dekhna"
-
-"Haan to mai kabhi nahi chahunga na ki aapko drr lage mere gusse se. Agar mai gussa kr rha hu to mai bas itna chahunga ki aap ye samjho mai gussa kis chiz ke liye hu aur aap sahi chiz kro. But agar mai dara raha hu ya aise dikha rha hu mai bohot bada hu ya aap bohot chote ho mere saamne mai kuch bhi kr sakta hu to wo galat hai aur kal raat mereko aisa hi laga aap pe chilaya to"
-
-"Badalne matlab aisa to nahi hoga ki mai abhi jaisa hu usme se kuch hata du. But haan koshish krunga ki har chiz aur acha kru kyuki itna to male ego mera bhi hai ki agar mai kisi ko pyaar kr rha hu to usko aisa na lagne du kabhi ki usne galat decision liya"
-
-"Kaam mereko bhi nahi aata hai zyada. Bohot basic aata hai ghar ka bolne se. But agar aap aur mai saath hue aur aap kuch kaam kr rhe ho to atleast mai aapke paas khade rahunga help krane ke liye ya fir bas aapka maatha kharab krne. But kahi baithe nahi rahunga ye sochke ki khud kroge sab"
-
-"Yrr pata hai mereko aapko ek baar aise me dekhna hai. Aapka baal pura loose bun me faila hua idhar udhar. Koi makeup nahi. Oversized tshirt. Shorts (optional)"
-
-"Aur sach batau to maine expect nahi kiya tha aap itna zyada perfect hoge mere liye. Aapke haan bolne ke baad pata chala hai mereko ki maine jitna chaha tha usse zyada sahi ho mere liye"
-
-"Haan to aapke saath pareshan jitna janam bolo ho jaaunga but aapke bina pareshan nahi hota hu akela hota hu"
-
-"Jii jii waise itna to bol sakta hu ki mere saath rahoge to nahi lena padega kisi chiz ka tenion. Mai akele jab bahar jaata hu to pura nashe me reheta hu kaha hu kya kr rha hu kuch nahi pata chalta hai pr jab bhi aapke saath gaya hu bohot... pata nahi word bhi nahi pata mereko like kuch ho na aapko ye chiz sochta reheta hu"
-
-"Are koi na re mai jo bola hu ki aapka bohot saalo tak wait kr sakta hu to wo seriously bola hai maine like mai aise nahi krunga ki aap mil nahi rhe kiss nahi kr rhe mai bor hoke chor dunga"
-
-"Matlab mere dimaag me das chiz reheta hai but aapse milne ke baad bas aap rehete ho"
-
-"Babu bhul jaao mai aapko ro ke manaunga ya aapko divorce lene dunga. Merese ladoge mai tab tak kiss krunga jab tak ya to mera saans na ruk jaaye ya aap hosh me na aao"
-
-"Kaha se nahi dikhte ho perfect zara batana. Aapko aaj tak mera kisi baat ka bura nahi laga. Na mere kisi opinion ka bural aga jab ki mera opinion humesha pura ulta hi hota hai agar aapke surroundings se compare kru to. Aapne kabhi mere baare me aisa nahi bola ki bohot annoying ha kuch. Aur kya chaiye perfect hone ke lie"
-
-"Aur isse bhi zyada handsome bhi hota to bhi har baar mai aapko hi choose krta"
-
-"Bas difference inta hai unhone 1008 aurat ko bachane ke llye apni Radha ko chor ke unse shaadi kiya aur mai apni Radha ke liye 1008 aurat maar sakta hu"
-
-"Pata hai mujhe aapko na hug krne ka man kr rha ab. Aur mujhe sabse zyada hug krne ka man tab krta hai jab aap bolte ho ye sab ki kisi chiz se dare the ya aapka tabiyat kharab hai ya kuch dard de rha. Matlab baaki time mujhe hug se zyada baaki chizo ka man reheta hai but uss time pe bas lagta hai hug krke rakhu na kahi touch Krna na kuch flirt Krna"
-
-"Hmm mai isliye ye bolta hu kyuki mereko nahi pasand hai ki aap kisi aur ke wajah se ye soch rhe ho ki ladki hoke aap kuch galti kiye ho"
-
-"Waise seriously ab pls mat sochna kabhi ki aapko ladki nahi hona chaiye tha ya next time aapko ladki nahi banna hai kyuki dikkat aapke ladki hone me nahi hai logo me hai jo ladki ke saath galat hone pe bhi ladki ko blame krte hai. Mere hisaab se aapko khush hona chaiye ki aap ladki ho kyuki aapse ya baaki ladki se hi generation badh rha hai aage warna jo ye sab kr rha hai wo paida bhi nahi hue hote. Bas aapka luck kharab tha ki aap aise jagha hue ho"
-
-"NAhi ho pata hai aap ladte bhi itna cute ho ki mera feeling aur badh jata hai isliye to mai ladna kam kr diya hu turant haar maan jata hu"
-
-"Wo depend krte hai mai chahta hu ki aap har chiz bolo kyuki usse mereko lagta hai ki aap mujhpe itna trust krte aur safe feel kr rhe ho ki aap mujhe ye sab bata pa rhe aur same mere saath hai mai aapko bolta hu kyuki mai safe feel krta hu ki aap iss chiz ko mazak me nahi loge ya mazak nahi banaoge mere baato ka"
-
-"Hnn nahi nikal rha itni pyaari ladki ke liye mature ladka sahi nahi ho sakta. Wo bohot rokega. Mereko to bas husha haste hue dekhna hai aapko"
-
-"Aap nakhra kr rhe ho kyuki aapko pata hai mai wo nakhra uthaunga. Aur mai wo nakhra uthata hu kyuki mujhe pata hai aap sabse zyada nakhra bas mere saath krte ho"
-
+     "Aaahhh sorry Sneha Thakur kal ke liye. Kal sach me pata nahi kya hogaya tha aur kyu bola mai waisa. Promise next time se kabhi waisa nahi hoga ab."
+      "Aur please aise rone jaise muh nahi banaya karo yrr nahi samajh aata hai kaise manau. Fir mai manane ke liye itna bekaar idea soch leta hu jisme mere lag jaate hai banate hue."
+      "Teen ghante se zyada lag gaya hai iske banane me please mat gussaya karo 😭😭."
+      "Love you dumbo"
 """.strip()
     music_uri = file_data_uri(SONG_PATH, "audio/mpeg")
     if music_uri:
