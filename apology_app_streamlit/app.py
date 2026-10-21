@@ -96,11 +96,10 @@ if st.session_state.stage == "welcome":
     st.markdown("""
     <div class="hero">
       <div style="font-size:2.7rem;margin-bottom:.3rem">💗</div>
-      <div class="eyebrow">A little something for you</div>
-      <h1 style="margin:.5rem 0 .7rem">Hey, my love.</h1>
+      <div class="eyebrow">कनि किछु अहाँक लेल</div>
+      <h1 style="margin:.5rem 0 .7rem">हे हमर प्रेम.</h1>
       <p style="font-size:1.05rem;line-height:1.7;margin-bottom:.4rem">
-      I made this little page because I want to listen to you, understand you,
-      and tell you something that matters to me.
+     हम ई एहि लेल बनेलौं जे हम अहाँ के सॉरी कहय चाहैत छलहुं। हमर मीठगर छोट बच्चा
       </p>
       <div style="font-size:1.25rem;margin-top:.7rem">♡</div>
     </div>
@@ -109,7 +108,7 @@ if st.session_state.stage == "welcome":
     if st.button("Let's begin ❤️", key="begin"):
         move("questions")
         st.rerun()
-    st.markdown('<p class="small-note">I love you so much cutie.</p>', unsafe_allow_html=True)
+    st.markdown('<p class="small-note">हम अहाँ स बहुत प्यार करैत छी क्यूटी.</p>', unsafe_allow_html=True)
 
 # QUESTIONS
 elif st.session_state.stage == "questions":
@@ -217,8 +216,8 @@ elif st.session_state.stage == "jumpscare":
     </script>
     """, height=590, scrolling=False)
     st.write("")
-    st.markdown('<p style="text-align:center;font-size:1rem">OKAY OKAY, I’M SORRY 😭</p>', unsafe_allow_html=True)
-    if st.button("I'M SORRY 😭 Show me the real letter", key="recover"):
+    st.markdown('<p style="text-align:center;font-size:1rem">हमरा क्षमा करब 😭</p>', unsafe_allow_html=True)
+    if st.button("I'M SORRY 😭 एतय असली अछि", key="recover"):
         move("recovery")
         st.rerun()
 
@@ -233,7 +232,7 @@ elif st.session_state.stage == "recovery":
     </div>
     """, unsafe_allow_html=True)
     st.write("")
-    if st.button("Open the REAL letter 💌", key="real_letter"):
+    if st.button("REAL अक्षर खोलू 💌", key="real_letter"):
         move("letter")
         st.rerun()
 
