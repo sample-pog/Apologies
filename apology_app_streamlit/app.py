@@ -317,4 +317,4 @@ elif st.session_state.stage == "letter":
         move("welcome")
         st.rerun()
 
-st.markdown('<p class="small-note" style="margin-top:2rem">Made with love (and questionable decisions) ❤️</p>', unsafe_allow_html=True)
+st.markdown('<p class="small-note" style="margin-top:2rem">अहाँक लेल बनौलक हमर बच्चा ❤️</p>', unsafe_allow_html=True)
